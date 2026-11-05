@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-pP25SEvz.js";import{s as t,x as n}from"./index-D3cwJP-k.js";/* empty css              */var r=e(n(),1),i=t();function a({children:e,landscape:t=!1}){return(0,r.createPortal)((0,i.jsx)(`div`,{className:`crm-print-layer crm-print-layer--${t?`landscape`:`portrait`}`,children:e}),document.body)}export{a as t};
